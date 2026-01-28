@@ -1,0 +1,18 @@
+<form [formGroup]="fb" (ngSubmit)="onSubmit()">
+<div>
+    <label> username</label><br>
+    <input type="text" formControlName="username">
+</div>
+<br><br>
+<div>
+    <label>Password</label><br>
+    <input type="text" formControlName="Password">
+</div>
+<br><br>
+<div>
+    <label>Email</label><br>
+    <input type="text" formControlName="email">
+</div>
+<button type="submit">Register</button>
+
+</form>

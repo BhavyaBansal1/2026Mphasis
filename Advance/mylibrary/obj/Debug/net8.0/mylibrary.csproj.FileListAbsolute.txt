@@ -1,0 +1,11 @@
+C:\Users\bhavya.bansal1\Advance\mylibrary\bin\Debug\net8.0\mylibrary.deps.json
+C:\Users\bhavya.bansal1\Advance\mylibrary\bin\Debug\net8.0\mylibrary.dll
+C:\Users\bhavya.bansal1\Advance\mylibrary\bin\Debug\net8.0\mylibrary.pdb
+C:\Users\bhavya.bansal1\Advance\mylibrary\obj\Debug\net8.0\mylibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhavya.bansal1\Advance\mylibrary\obj\Debug\net8.0\mylibrary.AssemblyInfoInputs.cache
+C:\Users\bhavya.bansal1\Advance\mylibrary\obj\Debug\net8.0\mylibrary.AssemblyInfo.cs
+C:\Users\bhavya.bansal1\Advance\mylibrary\obj\Debug\net8.0\mylibrary.csproj.CoreCompileInputs.cache
+C:\Users\bhavya.bansal1\Advance\mylibrary\obj\Debug\net8.0\mylibrary.dll
+C:\Users\bhavya.bansal1\Advance\mylibrary\obj\Debug\net8.0\refint\mylibrary.dll
+C:\Users\bhavya.bansal1\Advance\mylibrary\obj\Debug\net8.0\mylibrary.pdb
+C:\Users\bhavya.bansal1\Advance\mylibrary\obj\Debug\net8.0\ref\mylibrary.dll

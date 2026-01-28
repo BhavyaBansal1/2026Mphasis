@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "libraryclient/1.0.0": {
+        "dependencies": {
+          "mylibrary": "1.0.0"
+        },
+        "runtime": {
+          "libraryclient.dll": {}
+        }
+      },
+      "mylibrary/1.0.0": {
+        "runtime": {
+          "mylibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "libraryclient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "mylibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

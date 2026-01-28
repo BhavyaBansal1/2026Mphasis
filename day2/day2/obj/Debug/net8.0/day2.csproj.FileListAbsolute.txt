@@ -1,0 +1,14 @@
+C:\Users\bhavya.bansal1\day2\day2\bin\Debug\net8.0\day2.exe
+C:\Users\bhavya.bansal1\day2\day2\bin\Debug\net8.0\day2.deps.json
+C:\Users\bhavya.bansal1\day2\day2\bin\Debug\net8.0\day2.runtimeconfig.json
+C:\Users\bhavya.bansal1\day2\day2\bin\Debug\net8.0\day2.dll
+C:\Users\bhavya.bansal1\day2\day2\bin\Debug\net8.0\day2.pdb
+C:\Users\bhavya.bansal1\day2\day2\obj\Debug\net8.0\day2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhavya.bansal1\day2\day2\obj\Debug\net8.0\day2.AssemblyInfoInputs.cache
+C:\Users\bhavya.bansal1\day2\day2\obj\Debug\net8.0\day2.AssemblyInfo.cs
+C:\Users\bhavya.bansal1\day2\day2\obj\Debug\net8.0\day2.csproj.CoreCompileInputs.cache
+C:\Users\bhavya.bansal1\day2\day2\obj\Debug\net8.0\day2.dll
+C:\Users\bhavya.bansal1\day2\day2\obj\Debug\net8.0\refint\day2.dll
+C:\Users\bhavya.bansal1\day2\day2\obj\Debug\net8.0\day2.pdb
+C:\Users\bhavya.bansal1\day2\day2\obj\Debug\net8.0\day2.genruntimeconfig.cache
+C:\Users\bhavya.bansal1\day2\day2\obj\Debug\net8.0\ref\day2.dll

@@ -1,0 +1,15 @@
+<button (click)="Address()">Details</button>
+<table>
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Age</th>
+    </tr>
+    <tr *ngFor="let emp of list">
+        <td>{{emp.Id}}</td>
+            <td>{{emp.Name | lowercase}}</td>
+                <td>{{emp.Age | number}}</td>
+    </tr>
+</table>
+<!-- Name: {{name}} --> 
+<app-aman></app-aman>
